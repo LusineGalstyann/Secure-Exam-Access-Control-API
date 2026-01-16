@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Secure Exam Access Control API
 
 
@@ -28,3 +29,6 @@ FastAPI, SQLAlchemy, PostgreSQL (or SQLite), JWT
 
 
 
+=======
+# Secure-Exam-Access-Control-API
+>>>>>>> 77f1eb2d068fa7d1f35fa64a7536c9dd424bd1c8
